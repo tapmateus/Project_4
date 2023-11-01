@@ -1,0 +1,76 @@
+,courses,school,school_id
+0,Cyber Security Bootcamp,ironhack,10828
+1,Cybersecurity Part-Time,ironhack,10828
+2,Data Analytics Bootcamp,ironhack,10828
+3,Data Analytics Part-Time,ironhack,10828
+4,UX/UI Design Bootcamp,ironhack,10828
+5,UX/UI Design Part-Time,ironhack,10828
+6,Web Development Bootcamp,ironhack,10828
+7,Web Development Part-Time,ironhack,10828
+8,16-week Software Engineering Program,app-academy,10525
+9,Bootcamp Prep,app-academy,10525
+10,Bootcamp Prep Self-Paced,app-academy,10525
+11,16-Week Online Full-Time Accelerated Software Engineering Bootcamp,app-academy,10525
+12,24-week Software Engineering Program (Full Time),app-academy,10525
+13,48-week Software Engineering Program (Part Time),app-academy,10525
+14,App Academy Open,app-academy,10525
+15,Cyber Security Career Track,springboard,11035
+16,Data Analytics Career Track,springboard,11035
+17,Data Science Career Track,springboard,11035
+18,Data Science Career Track Prep,springboard,11035
+19,Front-End Web Development,springboard,11035
+20,Introduction to Data Analytics,springboard,11035
+21,Introduction to Design,springboard,11035
+22,Software Engineering Career Track,springboard,11035
+23,Software Engineering Career Track Prep Course,springboard,11035
+24,Software Engineering Foundations to Core,springboard,11035
+25,Tech Sales Career Track,springboard,11035
+26,UI/UX Design Career Track,springboard,11035
+27,UX Career Track,springboard,11035
+28,Data Analytics - Full-Time,le-wagon,10868
+29,Data Analytics - Part-Time,le-wagon,10868
+30,Data Engineering - Full-Time,le-wagon,10868
+31,Data Engineering - Part-Time,le-wagon,10868
+32,Data Science & AI - Full-Time,le-wagon,10868
+33,Data Science & AI - Part-Time,le-wagon,10868
+34,Web Development - Full-Time,le-wagon,10868
+35,Web Development - Part-Time,le-wagon,10868
+36,AI Programming with Python,udacity,11118
+37,Al Product Manager,udacity,11118
+38,Android Basics,udacity,11118
+39,Android Developer,udacity,11118
+40,Artificial Intelligence,udacity,11118
+41,Artificial Intelligence for Trading,udacity,11118
+42,Blockchain Developer,udacity,11118
+43,Business Analytics,udacity,11118
+44,C++,udacity,11118
+45,Cloud Dev Ops Engineer,udacity,11118
+46,Cloud Developer,udacity,11118
+47,Computer Vision,udacity,11118
+48,Data Analyst,udacity,11118
+49,Data Engineer,udacity,11118
+50,Data Structures and Algorithms,udacity,11118
+51,Data Visualization,udacity,11118
+52,Deep Learning,udacity,11118
+53,Deep Reinforcement Learning,udacity,11118
+54,Digital Marketing,udacity,11118
+55,Front End Web Developer,udacity,11118
+56,Full Stack Web Developer,udacity,11118
+57,Introduction to Machine Learning,udacity,11118
+58,Introduction to Programming,udacity,11118
+59,iOS Developer,udacity,11118
+60,Java Developer,udacity,11118
+61,Machine Learning Engineer,udacity,11118
+62,Marketing Analytics,udacity,11118
+63,Natural Language Processing,udacity,11118
+64,Predictive Analytics for Business,udacity,11118
+65,React,udacity,11118
+66,Robotics Software Engineer,udacity,11118
+67,Self-Driving Car Engineer,udacity,11118
+68,UX Designer,udacity,11118
+69,Design 101,designlab,10697
+70,UI Design,designlab,10697
+71,UX Academy,designlab,10697
+72,UX Academy Foundations,designlab,10697
+73,UX Research & Strategy,designlab,10697
+74,UX: Interaction Design,designlab,10697

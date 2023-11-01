@@ -1,0 +1,55 @@
+,campus_id,country_id,country_name,country_abbrev,city_id,city_name,school,school_id
+0,15901,57.0,Germany,DE,31156.0,Berlin,ironhack,10828
+1,16022,29.0,Mexico,MX,31175.0,Mexico City,ironhack,10828
+2,16086,59.0,Netherlands,NL,31168.0,Amsterdam,ironhack,10828
+3,16088,42.0,Brazil,BR,31121.0,Sao Paulo,ironhack,10828
+4,16109,38.0,France,FR,31136.0,Paris,ironhack,10828
+5,16375,1.0,United States,US,31.0,Miami,ironhack,10828
+6,16376,12.0,Spain,ES,31052.0,Madrid,ironhack,10828
+7,16377,12.0,Spain,ES,31170.0,Barcelona,ironhack,10828
+8,16709,28.0,Portugal,PT,31075.0,Lisbon,ironhack,10828
+9,17233,,,,,,ironhack,10828
+10,15704,1.0,United States,US,13.0,San Francisco,app-academy,10525
+11,15705,1.0,United States,US,1507.0,NYC,app-academy,10525
+12,15862,,,,,,app-academy,10525
+13,16013,,,,,,springboard,11035
+14,15803,20.0,Australia,AU,31174.0,Melbourne,le-wagon,10868
+15,15904,44.0,Morocco,MA,31119.0,Casablanca,le-wagon,10868
+16,15906,60.0,Argentina,AR,31171.0,Buenos Aires,le-wagon,10868
+17,15964,46.0,Belgium,BE,31125.0,Brussels,le-wagon,10868
+18,16039,29.0,Mexico,MX,31175.0,Mexico City,le-wagon,10868
+19,16049,59.0,Netherlands,NL,31168.0,Amsterdam,le-wagon,10868
+20,16106,42.0,Brazil,BR,31121.0,Sao Paulo,le-wagon,10868
+21,16124,12.0,Spain,ES,31170.0,Barcelona,le-wagon,10868
+22,16145,38.0,France,FR,31124.0,Bordeaux,le-wagon,10868
+23,16147,38.0,France,FR,31128.0,Lille,le-wagon,10868
+24,16148,28.0,Portugal,PT,31075.0,Lisbon,le-wagon,10868
+25,16149,35.0,Indonesia,ID,31169.0,Bali,le-wagon,10868
+26,16150,38.0,France,FR,31130.0,Nantes,le-wagon,10868
+27,16274,42.0,Brazil,BR,31131.0,Rio de Janeiro ,le-wagon,10868
+28,16275,38.0,France,FR,31129.0,Marseille,le-wagon,10868
+29,16282,2.0,Canada,CA,31135.0,Montreal,le-wagon,10868
+30,16283,15.0,China,CN,31108.0,Shanghai,le-wagon,10868
+31,16407,48.0,Japan,JP,31132.0,Tokyo,le-wagon,10868
+32,16408,38.0,France,FR,31106.0,Lyon,le-wagon,10868
+33,16765,57.0,Germany,DE,31156.0,Berlin,le-wagon,10868
+34,16767,38.0,France,FR,31136.0,Paris,le-wagon,10868
+35,16776,32.0,Switzerland,CH,31163.0,Lausanne,le-wagon,10868
+36,16800,12.0,Spain,ES,31052.0,Madrid,le-wagon,10868
+37,16805,38.0,France,FR,31147.0,Rennes,le-wagon,10868
+38,16936,56.0,Singapore,SG,31154.0,Singapore,le-wagon,10868
+39,16967,61.0,England,GB,31176.0,London,le-wagon,10868
+40,17314,34.0,United Arab Emirates,AE,31093.0,Dubai,le-wagon,10868
+41,17395,57.0,Germany,DE,31158.0,Munich,le-wagon,10868
+42,17476,22.0,Chile,CL,31067.0,Santiago,le-wagon,10868
+43,17765,38.0,France,FR,31239.0,Nice,le-wagon,10868
+44,17772,57.0,Germany,DE,31254.0,Cologne,le-wagon,10868
+45,18077,171.0,Mauritius,MU,31246.0,Mauritius,le-wagon,10868
+46,18117,,,,,,le-wagon,10868
+47,18128,32.0,Switzerland,CH,31082.0,Zurich,le-wagon,10868
+48,18194,28.0,Portugal,PT,31102.0,Porto,le-wagon,10868
+49,18195,17.0,South Africa,ZA,31100.0,Cape Town,le-wagon,10868
+50,18295,38.0,France,FR,31191.0,Toulouse,le-wagon,10868
+51,18321,20.0,Australia,AU,31110.0,Sydney,le-wagon,10868
+52,15807,,,,,,udacity,11118
+53,15816,,,,,,designlab,10697
